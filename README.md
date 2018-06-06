@@ -11,3 +11,5 @@ fasttext建模、调参、数据集分割、ks预测
 LDA主题特征加入手机、淘宝衍生变量进入LGBM训练
 ## linear_ada_em.ipynb
 fasttext与LGBM线性组合与adaboosting算法
+## LDA_predict.ipynb
+LDA主题利用LGBM训练
